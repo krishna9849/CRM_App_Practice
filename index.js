@@ -1,5 +1,2 @@
-/*
-Initialize repo
-updates
 
 */
